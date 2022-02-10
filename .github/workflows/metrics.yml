@@ -1,0 +1,38 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 8 * * *"}]
+  workflow_dispatch:
+jobs:
+  kwchang0831-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🍕 Header
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          config_timezone: Asia/Taipei
+          filename: metrics.header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_twemoji: yes
+          output_action: gist
+          committer_gist: ${{ secrets.METRICS_GIST }}
+          base: header
+      - name: 🍕 Profile
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          config_timezone: Asia/Taipei
+          filename: metrics.profile.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_twemoji: yes
+          config_order: isocalendar, languages 
+          output_action: gist
+          committer_gist: ${{ secrets.METRICS_GIST }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_limit: 5
