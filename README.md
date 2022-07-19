@@ -7,7 +7,7 @@
 <hr/>
 <br/>
 <div align="center">
-<i>"Do it. Just do it. Don't let your dreams be dreams... " </i>
+<i>"Do it! Just do it! Don't let your dreams be dreams... " </i>
 </div>
 <br/>
 <hr/>
