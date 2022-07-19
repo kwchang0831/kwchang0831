@@ -1,4 +1,4 @@
-name: Metrics
+name: kwchang0831/Metrics
 on:
   schedule: [{cron: "0 8 * * *"}]
   workflow_dispatch:
