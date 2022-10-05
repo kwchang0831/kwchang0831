@@ -19,6 +19,9 @@
 
 ## 🙈 Quick Stats
 
+![](https://raw.githubusercontent.com/kwchang0831/kwchang0831/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/kwchang0831/kwchang0831/output/generated/languages.svg)
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
