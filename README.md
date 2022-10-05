@@ -6,8 +6,8 @@
 <a href="#"><img align="right" src="https://media.tenor.com/S5qCffxIFdUAAAAC/the-muppet-kermit-the-frog.gif" width="349" height="195" /></a>
 
 - I write 💩 shit codes with 🐛 bugs, but it works ⚡️.
-- Love to learn and Enjoy coding.
-- Master of none. Just having fun, and Life goes On...
+- Love to learn 💡 and Enjoy coding 🤗.
+- Master of none. Just having fun, and Life goes On 🌱...
 
 <hr/>
 <br/>
