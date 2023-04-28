@@ -38,7 +38,7 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
