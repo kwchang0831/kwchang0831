@@ -1,7 +1,10 @@
 name: kwchang0831/waka-readme-stats
+
 on:
-  schedule: [{ cron: "0 8 * * *" }]
+  schedule:
+    - cron: "0 8 * * *"
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
