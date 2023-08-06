@@ -13,7 +13,6 @@ jobs:
       - name: 🍕 WakaReadme-Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          config_timezone: Asia/Taipei
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_COMMIT: "TRUE"
@@ -21,7 +20,7 @@ jobs:
           SHOW_LANGUAGE: "TRUE"
           SHOW_OS: "FALSE"
           SHOW_EDITORS: "FALSE"
-          SHOW_TIMEZONE: "FALSE"
+          SHOW_TIMEZONE: "TRUE"
           SHOW_LANGUAGE_PER_REPO: "FALSE"
           SHOW_TOTAL_CODE_TIME: "FALSE"
           SHOW_UPDATED_DATE: "FALSE"
