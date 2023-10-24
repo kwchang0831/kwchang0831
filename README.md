@@ -1,4 +1,4 @@
-<h1> <img src="./assets/hi.gif" height="30px"> Hello! I am <a href="https://github.com/kwchang0831">kwchang0831</a>. <img src="./assets/cool-cat.gif" height="30px"> </h1>
+<h1> Hello! I am <a href="https://github.com/kwchang0831">kwchang0831</a>. <img src="./assets/cool-cat.gif" height="30px"> </h1>
 </h1>
 
 ## 🎉 Get to Know Me
