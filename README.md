@@ -40,8 +40,7 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   1 hr 14 mins        ████████████████████████░   94.52 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+No Activity Tracked This Week
 ```
 
 
