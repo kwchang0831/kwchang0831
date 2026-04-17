@@ -40,7 +40,7 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    2 hrs 35 mins       █████████████████████████   100.00 % 
+Other                    1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 
