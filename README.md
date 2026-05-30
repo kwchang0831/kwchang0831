@@ -24,5 +24,24 @@
 ![languages](https://raw.githubusercontent.com/kwchang0831/kwchang0831/output/generated/languages.svg)
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+🌆 Daytime                200 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌃 Evening                277 commits         ████████░░░░░░░░░░░░░░░░░   32.90 % 
+🌙 Night                  218 commits         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    5 mins              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
