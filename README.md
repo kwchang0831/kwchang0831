@@ -40,7 +40,7 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 
